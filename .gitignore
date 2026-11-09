@@ -3,3 +3,6 @@
 !.env.example
 __pycache__/
 *.pyc
+/install-mealmate.bat
+/setup-database.bat
+/start-mealmate.bat
